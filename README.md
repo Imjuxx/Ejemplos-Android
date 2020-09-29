@@ -1,5 +1,7 @@
 # Ejemplos-Android
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/918089f4e81d463fb0b0affb27d01c98)](https://app.codacy.com/gh/Imjuxx/Ejemplos-Android?utm_source=github.com&utm_medium=referral&utm_content=Imjuxx/Ejemplos-Android&utm_campaign=Badge_Grade)
+
 Repositorio con el código fuente de ejemplo sobre programación Android.
 
 Los ejemplos aparecen en los siguientes [**vídeos**](https://www.youtube.com/playlist?list=PL-DwF6obA18LHk_HbKyrNEe7HfJlPM6Q_):
